@@ -1,0 +1,11 @@
+This is a backend program which do three operations:
+
+1. Save files to local server in folder
+2. Save  static files to cloudinary 
+3. Send mail to the user when data is stored into database and cloudinary 
+
+
+
+
+
+
